@@ -1,2 +1,2 @@
 #!/bin/bash
-mkstemp
+mkstemp my_first_directory
