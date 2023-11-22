@@ -1,1 +1,1 @@
-directory : basic
+directory : basics
